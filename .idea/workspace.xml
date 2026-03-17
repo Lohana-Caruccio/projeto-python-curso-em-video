@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab43b21-8512-487f-b48b-076fce92a19d" name="Changes" comment="Mudanças de novo" />
+    <list default="true" id="aab43b21-8512-487f-b48b-076fce92a19d" name="Changes" comment="Mudanças de novo">
+      <change beforePath="$PROJECT_DIR$/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +110,7 @@
       <workItem from="1773768616132" duration="186000" />
       <workItem from="1773768841145" duration="26000" />
       <workItem from="1773768945978" duration="197000" />
-      <workItem from="1773788539112" duration="1005000" />
+      <workItem from="1773788539112" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="Mudei">
       <option name="closed" value="true" />
