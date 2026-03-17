@@ -9,3 +9,4 @@ venv/
 _pycache_/
 *.pyc# created by virtualenv automatically
 
+.idea/workspace.xml
