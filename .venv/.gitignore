@@ -1,0 +1,11 @@
+# Ignorar arquivos do PyCharm que mudam sozinhos
+.idea/
+*.iml
+
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivos temporários do Python
+_pycache_/
+*.pyc# created by virtualenv automatically
+
