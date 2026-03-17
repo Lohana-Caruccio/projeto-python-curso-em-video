@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab43b21-8512-487f-b48b-076fce92a19d" name="Changes" comment="Mudei" />
+    <list default="true" id="aab43b21-8512-487f-b48b-076fce92a19d" name="Changes" comment="Mudei">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,8 @@
       <workItem from="1773701900950" duration="461000" />
       <workItem from="1773702375734" duration="6000" />
       <workItem from="1773749460541" duration="38000" />
-      <workItem from="1773749724739" duration="223000" />
+      <workItem from="1773749724739" duration="254000" />
+      <workItem from="1773750268270" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="Mudei">
       <option name="closed" value="true" />
@@ -78,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773749810895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mudei">
+      <option name="closed" value="true" />
+      <created>1773749963555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773749963555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
