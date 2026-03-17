@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab43b21-8512-487f-b48b-076fce92a19d" name="Changes" comment="Adicionei um README no projeto" />
+    <list default="true" id="aab43b21-8512-487f-b48b-076fce92a19d" name="Changes" comment="Adicionei um README no projeto">
+      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,7 @@
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -96,6 +100,7 @@
       <workItem from="1773750390336" duration="849000" />
       <workItem from="1773751858473" duration="74000" />
       <workItem from="1773753590438" duration="3149000" />
+      <workItem from="1773759389045" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="Mudei">
       <option name="closed" value="true" />
@@ -168,6 +173,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/projeto_python_curso_em_video$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1773753883946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projeto_python_curso_em_video$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1773760494123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/projeto_python_curso_em_video$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1773755138716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
