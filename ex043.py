@@ -14,3 +14,4 @@ elif imc >= 30 and imc <= 40:
     print('Seu IMC é de {:.2f}, você está com \033[1;31mOBESIDADE!\033[m'.format(imc))
 else:
     print('Seu IMC é de {:.2f}, você está com \033[1;31mOBESIDADE MÓRBIDA!\033[m'.format(imc))
+
