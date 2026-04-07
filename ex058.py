@@ -18,4 +18,4 @@ while not acertou:
             print('Mais, tente novamente: ')
 print('...')
 sleep(2)
-print('ACERTOU!\nVocê precisou de {} tentativas.'.format( cont))
+print('ACERTOU!\nO número foi {} e você precisou de {} tentativas.'.format(computador, cont))
