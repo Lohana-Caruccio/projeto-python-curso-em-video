@@ -1,28 +1,25 @@
-cont = 0
-Nm = 0
 soma = 0
 media = 0
 maior = 0
-cM = 0
+nomevelho = ''
+totmulher20 = 0
 for p in range(1,5):
-    nome = str(input('{}ª pessoa- Digite seu nome: '. format(p))).strip().upper()
-    idade = int(input('Digite sua idade: '))
-    sexo = str(input('Digite seu sexo: ')).strip().upper()
-    cont += 1
-    soma = soma + idade
-    if sexo == 'M':
-     if p == 1:
+    print('------{}ª PESSOA------'.format(p))
+    nome = str(input('Nome: ')).strip()
+    idade = int(input('Idade: '))
+    sexo = str(input('Sexo [M/F]: ')).strip()
+    soma += idade
+    if p == 1 and sexo in 'Mm':
          maior = idade
-     else:
-         if idade > maior:
-            maior = idade
-    if idade == maior:
-        Nm = nome
-    if sexo == 'F':
-        if idade < 20:
-            cM += 1
-media = soma / cont
-print('A média de idade entre essas 4 pessoas é de {:.0f} anos.'.format(media))
-print('O nome do homem mais velho é {}'.format(Nm))
-print('Das mulheres, {} tem menos de 20 anos.'.format(cM))
+         nomevelho = nome
+    if sexo in 'Mm' and idade > maior:
+        maior = idade
+        nomevelho = nome
+    if sexo in 'Ff' and idade < 20:
+            totmulher20 += 1
+media = soma / 4
+print(' ')
+print('A média de idade entre essas 4 pessoas é de {:.1f} anos.'.format(media))
+print('O homem mais velho tem {} anos e seu nome é {}.'.format(maior, nomevelho))
+print('Ao todo são {} mulheres com menos de 20 anos.'.format(totmulher20))
 
