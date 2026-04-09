@@ -12,7 +12,7 @@ while cont <= n:
     t1 = t2
     t2 = t3
     cont = cont + 1
-print('\nFim!')
+print(' -> Fim!')
 
 
 
