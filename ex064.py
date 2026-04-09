@@ -1,9 +1,7 @@
 #Tratando valores
-num = 0
-cont = 0
-soma = 0
+num = cont = soma = 0
 while num != 999:
-    soma = soma + num
+    soma += num
     num = int(input('Digite um número [999 para parar]: '))
     if num != 999:
      cont = cont + 1
