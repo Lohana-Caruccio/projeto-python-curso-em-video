@@ -1,4 +1,4 @@
-#Simulador de caixa eletrônico
+#Simulador de caixa eletrônico(com valores atualizados e modificados)
 print('=' * 20)
 print('{:^20}'.format('BANCO CEV'))
 print('=' * 20)
@@ -18,7 +18,15 @@ while True:
         elif ced == 20:
             ced = 10
         elif ced == 10:
-            ced = 1
+            if total % 2 == 0:
+                ced = 2
+            else:
+                ced = 5
+        elif ced == 5:
+            if total % 2 == 0:
+                ced = 2
+            else:
+                ced = 1
         totced = 0 #zera as cédulas anteriores que já haviam sido contadas e printadas
         if total == 0:
             break
