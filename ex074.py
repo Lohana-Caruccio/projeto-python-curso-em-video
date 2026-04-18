@@ -1,4 +1,4 @@
-#Maior e menor valor em uma tupla
+#Maior e menor valor em uma Tupla
 from random import randint
 valores = (randint(1, 10), randint(1, 10), randint(1, 10), randint(1, 10))
 print(f'Os valores sorteados foram: ', end='')
