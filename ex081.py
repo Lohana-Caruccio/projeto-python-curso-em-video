@@ -16,8 +16,8 @@ while True:
     if r in 'Nn':
         break
 print('-='*30)
-print(f'Foram digitados, sem contar os repetidos, {c} valores em ordem decrescente:')
-print(f'\n{sorted(num, reverse=True)}')
+print(f'Foram digitados, sem contar os repetidos, {c} elementos!')
+print(f'São eles em ordem decrescente:\n{sorted(num, reverse=True)}')
 print(' ')
 if c5 == 0:
     print('O valor 5 não foi digitado e não está na lista!')
