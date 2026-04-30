@@ -10,6 +10,6 @@ else:
     aluno['situação'] = 'Reprovado'
 print('-='*20)
 for k, v in aluno.items():
-    print(f'{k} - {v}.')
+    print(f'- {k} é igual a {v}.')
 print()
 
