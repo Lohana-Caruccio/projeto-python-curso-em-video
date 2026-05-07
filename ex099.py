@@ -1,4 +1,4 @@
-#Função que descobre o maior
+#Função que descobre o maior valor
 from time import sleep
 def maior (* num):
     print('-'*50)
