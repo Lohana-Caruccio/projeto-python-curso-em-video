@@ -1,4 +1,4 @@
-#Funções para sortear e somar
+#Funções para sortear e somar números em uma lista
 from time import sleep
 from random import randint
 def sorteia(lista):
