@@ -15,5 +15,3 @@ def aumentar(num, p):
 def diminuir(num, p):
     res = num - (num * (p /100))
     return res
-
-
