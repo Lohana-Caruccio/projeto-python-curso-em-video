@@ -1,4 +1,4 @@
-#Funções
+#Funções Moeda
 
 def metade(num):
     res = num / 2
