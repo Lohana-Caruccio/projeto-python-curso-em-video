@@ -1,4 +1,4 @@
-#Exercitando módulos em Python -
+#Exercitando módulos em Python com formatação
 
 import moeda2
 
